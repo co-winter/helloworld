@@ -6,36 +6,29 @@ Add a description of your project here.
 
 Steps to build and/or run the software:
 
-1. First step here
-2.
-3.
+1. Bring up python file in VScode
+2. Run Code
 
 Instructions for using the software:
 
-1. First step here
-2.
-3.
+1. No interaction required, the program simply prints the phrase: "Hello World"
 
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* First thing here
-*
-*
+* Cisual Studio Code, or any code editor
+* Python extension
+* Built-in Terminal
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-*
-*
+* VSCode
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ ] Use as basic building block for future project
