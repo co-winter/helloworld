@@ -1,6 +1,7 @@
 # Project Title (Update)
 
 Add a description of your project here.
+Simple program taht just writes the users name and introduces them to python
 
 ## Instructions for Build and Use
 
@@ -11,13 +12,13 @@ Steps to build and/or run the software:
 
 Instructions for using the software:
 
-1. No interaction required, the program simply prints the phrase: "Hello World"
+1. No interaction required, the program simply prints the phrase: "Hello {name} WWelcome to Python"
 
 ## Development Environment
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* Cisual Studio Code, or any code editor
+* Visual Studio Code, or any code editor
 * Python extension
 * Built-in Terminal
 
